@@ -1,4 +1,4 @@
-package com.example.game_of_life
+package com.example.game_of_life_clock
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

@@ -1,4 +1,4 @@
-name: game_of_life
+name: game_of_life_clock
 description: Game of Life Clock.
 
 version: 1.0.0+1
