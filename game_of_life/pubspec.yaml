@@ -1,0 +1,24 @@
+name: game_of_life
+description: Game of Life Clock.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_clock_helper:
+    path: ../flutter_clock_helper
+  intl: "^0.16.1"
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
