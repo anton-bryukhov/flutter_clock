@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:game_of_life/game_of_life_config.dart';
-import 'package:game_of_life/universe.dart';
-import 'package:game_of_life/universe_painter.dart';
-import 'package:game_of_life/universe_ticker.dart';
+import 'package:game_of_life_clock/game_of_life_config.dart';
+import 'package:game_of_life_clock/universe.dart';
+import 'package:game_of_life_clock/universe_painter.dart';
+import 'package:game_of_life_clock/universe_ticker.dart';
 
 class GameOfLife extends StatefulWidget {
   final GameOfLifeConfig config;

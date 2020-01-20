@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_clock_helper/customizer.dart';
-import 'package:game_of_life/game_of_life_config.dart';
-import 'package:game_of_life/root.dart';
+import 'package:game_of_life_clock/game_of_life_config.dart';
+import 'package:game_of_life_clock/root.dart';
 
 const config = GameOfLifeConfig(
   gridHeight: 16,

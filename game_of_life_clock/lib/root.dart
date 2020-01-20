@@ -2,9 +2,9 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_clock_helper/model.dart';
-import 'package:game_of_life/clock.dart';
-import 'package:game_of_life/game_of_life_config.dart';
-import 'package:game_of_life/game_of_life.dart';
+import 'package:game_of_life_clock/clock.dart';
+import 'package:game_of_life_clock/game_of_life_config.dart';
+import 'package:game_of_life_clock/game_of_life.dart';
 
 class Root extends StatelessWidget {
   const Root(this._model, this._config);

@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:game_of_life/game_of_life_config.dart';
-import 'package:game_of_life/universe.dart';
+import 'package:game_of_life_clock/game_of_life_config.dart';
+import 'package:game_of_life_clock/universe.dart';
 
 class UniversePainter extends CustomPainter {
   final Universe universe;
